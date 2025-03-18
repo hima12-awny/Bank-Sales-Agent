@@ -1,0 +1,9 @@
+llama_index
+pandas
+protobuf
+pydantic
+streamlit
+tqdm
+google-genai
+llama-index-embeddings-huggingface
+llama-index-embeddings-cohere
