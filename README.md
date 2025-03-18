@@ -5,6 +5,8 @@ An AI-powered sales assistant for banking products that helps customers find sui
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ibrahim-awny/)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail)](mailto:hima12awny@gmail.com)
 
+![Documentation Agent Demo](https://github.com/hima12-awny/Bank-Sales-Agent/blob/80780f5478eb82e5b1040455a3e31be37b233768/pics/Sales-Agent-Chatbot-Bank-Misr.png)
+
 
 ## 🌟 Features
 
